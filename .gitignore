@@ -1,0 +1,11 @@
+# 运行时数据（设备配置，按需可自行提交）
+data/
+
+# WorkBuddy 项目内部数据
+.workbuddy/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
